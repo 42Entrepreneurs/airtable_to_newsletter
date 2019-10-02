@@ -4,7 +4,8 @@ var base = new Airtable({apiKey: process.env.AIRTABLE_API_KEY}).base('appkTlqcgq
 base('Students').select({
     // Selecting the first 10 records in Grid view:
     maxRecords: 10,
-    view: "Grid view"
+    view: "Grid view",
+    sort: [{field: 'created_time', direction: 'desc'}]
 }).eachPage(function page(records, fetchNextPage) {
     // This function (`page`) will get called for each page of records.
 

@@ -1,28 +1,106 @@
 
  
  
- Clément Ababou 
- 👨 💻 Technology: Java, React, C, Javascript 
- 📧  cababou@student.42.fr 
- 📞  0761994490 
- 🔗  Online portfolio: https://github.com/Klemms
-Note that this mostly contains 42 projects as my other projects are in private repositories 
- 🔗  Linkedin https://www.linkedin.com/in/clementababou/ 
- 🎓  42 level? 8.39 
- 🖋  What contract are you looking for? [ 'Internship' ] 
- 🤚  Motivations to work in a startup? I want to work on interesting projects with a team of motivated people, where we can talk, design and create a project that would lead a startup to success 
- 🗝  Experience on each technology you want to work on? Java, multiple projects, games, bots for multiple services (discord, messenger...), plugins for games
-React, client side of some of the games I made
-C, Projects at 42
-Javascript, multiple projects at 42, personnal projects, mini-sites 
- 💰  Compensation ? 18k€ 
- 📍  Where do you want to be based? undefined 
+ 🧑 Bruno Catherin Saint-Supéry 
+ 👤  42 Login: bcatheri 
+ 💻  Technology: CRM customer relatioship management, BtoB portal, Content management 
+ 📧  bruno.catherin@gmail.com 
+ 📞  0601061174 
+ 🔗  Online portfolio: undefined 
+ 🔗  Linkedin https://www.linkedin.com/in/brunocatherin/ 
+ 🎓  42 level? 1.0 
+ 🖋  What contract are you looking for? [ 'Part-time', 'Co-founder // CTO' ] 
+ 🤚  Motivations to work in a startup? My experience confirmed me in my skills. I know what is possible to take advantage of computer technologies.
+I am an observer, imaginative and communicative. There is no way to communicate my enthusiasm.
+Changing the world is not my goal, but changing my life is mine. ;)
+I would like to show that I am able to participate in the development of an idea. 
+ 🗝  Experience on each technology you want to work on? CRM - 4 years - build and run CRM solution like : Pivotal, sugar CRM, Smarty CRM, Salesforce, Build solution and manage project for IT companies and Chamber of Commerce 3000 users worldwide
+BtoB portal : 2 years -  build a web portal www.teamfrance-export.fr for each 12 french region with different partners like Orange, Amazon,... specifying personae usage and manage interface with the CRM solution on REST web service.
+Build in a team a private BtoB portal to show tech studies, analysis, benchmark of IT solutions.
+Content management : 2 years, specify content management process and content categorization for BtoB customers on different solution like : Nuxeo, EMC documentum, Alfresco 
+ 💰  Compensation ? 65k€ 
+ 📍  Where do you want to be based? France - Paris 
  🏫  Which campus are you from? Paris
 
  
  
- Nevyana DELHOMME 
- 👨 💻 Technology: I previously graduated from Toulouse Business School, top-ranked French Business School, with a Master 2 in Finance and Strategy. I gained exposure to data collection, quantitative analysis and results interpretation.
+ 🧑 Ta William 
+ 👤  42 Login: undefined 
+ 💻  Technology: I'm currently working with these technologies :C, Javascript, React, Material-UI, MobX, GraphQL.
+I'm looking to learn new language such as: Go, Rust, C++... 
+ 📧  wta@student.42.fr 
+ 📞  0695154619 
+ 🔗  Online portfolio: https://github.com/MonsieurTa?tab=repositories 
+ 🔗  Linkedin https://www.linkedin.com/in/william-ta-538387103/ 
+ 🎓  42 level? 11.42 
+ 🖋  What contract are you looking for? [ 'Part-time' ] 
+ 🤚  Motivations to work in a startup? I want to help spread useful ideas, to make everyone's life easier 
+ 🗝  Experience on each technology you want to work on? C - School projects: https://github.com/MonsieurTa?tab=repositories
+Javascript, Typescript, React, Material-UI, GraphQL: (Internship) Making an internal web app for a private company (back-end/front-end) 
+ 💰  Compensation ? 1600€/mois net (alternance) 
+ 📍  Where do you want to be based? France, Paris 
+ 🏫  Which campus are you from? Paris
+
+ 
+ 
+ 🧑 Sabri Makni 
+ 👤  42 Login: smakni 
+ 💻  Technology: C, Python, Shell, Linux, system administration 
+ 📧  sabrimakni@gmail.com 
+ 📞  +33760548975 
+ 🔗  Online portfolio: https://github.com/smakni 
+ 🔗  Linkedin https://www.linkedin.com/in/sabri-makni-6b8993154/ 
+ 🎓  42 level? 8.57 
+ 🖋  What contract are you looking for? [ 'Internship' ] 
+ 🤚  Motivations to work in a startup? I want to be part of a young and dynamic technical team, contribute to the design of new architectures and work on innovative project with new technologies. 
+ 🗝  Experience on each technology you want to work on? Linux - autodidact since 4 years
+C - 2 years at 42
+Python - 1 month e-learning 
+ 💰  Compensation ? 800€/mois 
+ 📍  Where do you want to be based? France, Europe  
+ 🏫  Which campus are you from? Paris
+
+ 
+ 
+ 🧑 Vladimir Renaudin 
+ 👤  42 Login: vrenaudi 
+ 💻  Technology: Python, JS, React, C 
+ 📧  vladimir.renaudin@hotmail.fr 
+ 📞  0652259681 
+ 🔗  Online portfolio: https://github.com/deveul 
+ 🔗  Linkedin https://www.linkedin.com/in/vladimir-renaudin-63249866/ 
+ 🎓  42 level? 9.48 
+ 🖋  What contract are you looking for? [ 'Internship' ] 
+ 🤚  Motivations to work in a startup? I want to work in a growing environment, with missions evolving everyday. Learn new technologies fast and apply this new knowledge. 
+ 🗝  Experience on each technology you want to work on? C - cursus 42
+JS - autodidact 1 month 
+ 💰  Compensation ? 800€/months 
+ 📍  Where do you want to be based? Paris, France 
+ 🏫  Which campus are you from? Paris
+
+ 
+ 
+ 🧑 Igor Garbuz 
+ 👤  42 Login: igarbuz 
+ 💻  Technology: Back-end and ML in production (training models and putting them into production). Python, Go, C++, Swift 
+ 📧  garbuz.iv@gmail.com 
+ 📞  +33644845953 
+ 🔗  Online portfolio: https://github.com/igorvg/
+ENS-Challenge 2019, owkin dataset, login igorvg 
+ 🔗  Linkedin https://www.linkedin.com/in/igarbuz/ 
+ 🎓  42 level? 9.28 
+ 🖋  What contract are you looking for? [ 'Internship', 'CDD / CDI', 'Full-time', 'Part-time' ] 
+ 🤚  Motivations to work in a startup? working in a great motivated team on an interesting product with real-world constraints 
+ 🗝  Experience on each technology you want to work on? 42 : internal circle, PHP piscine, python for ML side projects 
+ 💰  Compensation ? undefined 
+ 📍  Where do you want to be based? no proference 
+ 🏫  Which campus are you from? Paris
+
+ 
+ 
+ 🧑 Nevyana DELHOMME 
+ 👤  42 Login: ndelhomm 
+ 💻  Technology: I previously graduated from Toulouse Business School, top-ranked French Business School, with a Master 2 in Finance and Strategy. I gained exposure to data collection, quantitative analysis and results interpretation.
 
 I'd like to work as an Operations or Product Manager, an hybrid position between tech, management and business. The value I brought would be a huge ambition for the product, a deep empathy for our target customers, my understanding of both business and technology, my ability to prioritize and to get things done.
 
@@ -43,92 +121,21 @@ Python - 1 month
 
  
  
- Igor Garbuz 
- 👨 💻 Technology: Back-end and ML in production (training models and putting them into production). Python, Go, C++, Swift 
- 📧  garbuz.iv@gmail.com 
- 📞  +33644845953 
- 🔗  Online portfolio: https://github.com/igorvg/
-ENS-Challenge 2019, owkin dataset, login igorvg 
- 🔗  Linkedin https://www.linkedin.com/in/igarbuz/ 
- 🎓  42 level? 9.28 
- 🖋  What contract are you looking for? [ 'Internship', 'CDD / CDI', 'Full-time', 'Part-time' ] 
- 🤚  Motivations to work in a startup? working in a great motivated team on an interesting product with real-world constraints 
- 🗝  Experience on each technology you want to work on? 42 : internal circle, PHP piscine, python for ML side projects 
- 💰  Compensation ? undefined 
- 📍  Where do you want to be based? no proference 
- 🏫  Which campus are you from? Paris
-
- 
- 
- Vladimir Renaudin 
- 👨 💻 Technology: Python, JS, React, C 
- 📧  vladimir.renaudin@hotmail.fr 
- 📞  0652259681 
- 🔗  Online portfolio: https://github.com/deveul 
- 🔗  Linkedin https://www.linkedin.com/in/vladimir-renaudin-63249866/ 
- 🎓  42 level? 9.48 
+ 🧑 Clément Ababou 
+ 👤  42 Login: cababou 
+ 💻  Technology: Java, React, C, Javascript 
+ 📧  cababou@student.42.fr 
+ 📞  0761994490 
+ 🔗  Online portfolio: https://github.com/Klemms
+Note that this mostly contains 42 projects as my other projects are in private repositories 
+ 🔗  Linkedin https://www.linkedin.com/in/clementababou/ 
+ 🎓  42 level? 8.39 
  🖋  What contract are you looking for? [ 'Internship' ] 
- 🤚  Motivations to work in a startup? I want to work in a growing environment, with missions evolving everyday. Learn new technologies fast and apply this new knowledge. 
- 🗝  Experience on each technology you want to work on? C - cursus 42
-JS - autodidact 1 month 
- 💰  Compensation ? 800€/months 
- 📍  Where do you want to be based? Paris, France 
- 🏫  Which campus are you from? Paris
-
- 
- 
- Sabri Makni 
- 👨 💻 Technology: C, Python, Shell, Linux, system administration 
- 📧  sabrimakni@gmail.com 
- 📞  +33760548975 
- 🔗  Online portfolio: https://github.com/smakni 
- 🔗  Linkedin https://www.linkedin.com/in/sabri-makni-6b8993154/ 
- 🎓  42 level? 8.57 
- 🖋  What contract are you looking for? [ 'Internship' ] 
- 🤚  Motivations to work in a startup? I want to be part of a young and dynamic technical team, contribute to the design of new architectures and work on innovative project with new technologies. 
- 🗝  Experience on each technology you want to work on? Linux - autodidact since 4 years
-C - 2 years at 42
-Python - 1 month e-learning 
- 💰  Compensation ? 800€/mois 
- 📍  Where do you want to be based? France, Europe  
- 🏫  Which campus are you from? Paris
-
- 
- 
- Ta William 
- 👨 💻 Technology: I'm currently working with these technologies :C, Javascript, React, Material-UI, MobX, GraphQL.
-I'm looking to learn new language such as: Go, Rust, C++... 
- 📧  wta@student.42.fr 
- 📞  0695154619 
- 🔗  Online portfolio: https://github.com/MonsieurTa?tab=repositories 
- 🔗  Linkedin https://www.linkedin.com/in/william-ta-538387103/ 
- 🎓  42 level? 11.42 
- 🖋  What contract are you looking for? [ 'Part-time' ] 
- 🤚  Motivations to work in a startup? I want to help spread useful ideas, to make everyone's life easier 
- 🗝  Experience on each technology you want to work on? C - School projects: https://github.com/MonsieurTa?tab=repositories
-Javascript, Typescript, React, Material-UI, GraphQL: (Internship) Making an internal web app for a private company (back-end/front-end) 
- 💰  Compensation ? 1600€/mois net (alternance) 
- 📍  Where do you want to be based? France, Paris 
- 🏫  Which campus are you from? Paris
-
- 
- 
- Bruno Catherin Saint-Supéry 
- 👨 💻 Technology: CRM customer relatioship management, BtoB portal, Content management 
- 📧  bruno.catherin@gmail.com 
- 📞  0601061174 
- 🔗  Online portfolio: undefined 
- 🔗  Linkedin https://www.linkedin.com/in/brunocatherin/ 
- 🎓  42 level? 1.0 
- 🖋  What contract are you looking for? [ 'Part-time', 'Co-founder // CTO' ] 
- 🤚  Motivations to work in a startup? My experience confirmed me in my skills. I know what is possible to take advantage of computer technologies.
-I am an observer, imaginative and communicative. There is no way to communicate my enthusiasm.
-Changing the world is not my goal, but changing my life is mine. ;)
-I would like to show that I am able to participate in the development of an idea. 
- 🗝  Experience on each technology you want to work on? CRM - 4 years - build and run CRM solution like : Pivotal, sugar CRM, Smarty CRM, Salesforce, Build solution and manage project for IT companies and Chamber of Commerce 3000 users worldwide
-BtoB portal : 2 years -  build a web portal www.teamfrance-export.fr for each 12 french region with different partners like Orange, Amazon,... specifying personae usage and manage interface with the CRM solution on REST web service.
-Build in a team a private BtoB portal to show tech studies, analysis, benchmark of IT solutions.
-Content management : 2 years, specify content management process and content categorization for BtoB customers on different solution like : Nuxeo, EMC documentum, Alfresco 
- 💰  Compensation ? 65k€ 
- 📍  Where do you want to be based? France - Paris 
+ 🤚  Motivations to work in a startup? I want to work on interesting projects with a team of motivated people, where we can talk, design and create a project that would lead a startup to success 
+ 🗝  Experience on each technology you want to work on? Java, multiple projects, games, bots for multiple services (discord, messenger...), plugins for games
+React, client side of some of the games I made
+C, Projects at 42
+Javascript, multiple projects at 42, personnal projects, mini-sites 
+ 💰  Compensation ? 18k€ 
+ 📍  Where do you want to be based? undefined 
  🏫  Which campus are you from? Paris
