@@ -2,7 +2,7 @@ var Airtable = require('airtable');
 var base = new Airtable({apiKey: process.env.AIRTABLE_API_KEY}).base('appkTlqcgqg51vl5o');
 
 base('Students').select({
-    // Selecting the first 3 records in Grid view:
+    // Selecting the first 10 records in Grid view:
     maxRecords: 10,
     view: "Grid view"
 }).eachPage(function page(records, fetchNextPage) {
@@ -13,9 +13,13 @@ base('Students').select({
         '\n',
         '\n',
         '\n',
+        '🧑',
         record.get('Name'),
         "\n",
-        '👨 💻 Technology:',
+        '👤  42 Login:',
+        record.get('Login'),
+        "\n",
+        '💻  Technology:',
         record.get('Technology'),
         "\n",
         "📧 ",
