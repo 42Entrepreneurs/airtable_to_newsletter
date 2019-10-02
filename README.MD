@@ -1,4 +1,4 @@
-To use this script:
+##To use this script:
 
 0. clone using ```$ gcl https://github.com/42Entrepreneurs/airtable_to_newsletter.git```
 1. install the packages with npm or yarn ```$ yarn```
