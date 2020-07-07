@@ -15,7 +15,7 @@ base('Students').select({
         '\n',
         '\n',
         '🧑',
-        record.get('Name'),
+        record.get('Full name'),
         "\n",
         '👤  42 Login:',
         record.get('Login'),
