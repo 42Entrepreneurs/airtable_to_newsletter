@@ -1,0 +1,322 @@
+
+ 
+ 
+ 🧑 Jose Mauricio  Carpio Herrera 
+ 👤  42 Login: jcarpio- 
+ 💻  Technology: AWS , azure , google cloud , go , python , CI/CD , infrastructure, terraform, docker, kubernetes 
+ 📧  jcarpioherrera@gmail.com 
+ 📞  + 51 977689581 
+ 🔗  Online portfolio: https://github.com/laughtt 
+ 🔗  Linkedin https://www.linkedin.com/in/mauriciocarpioherrera/ 
+ 🎓  42 level: 10 
+ 🖋  Contract: [ 'Freelance', 'Full-time', 'Part-time', 'Co-founder // CTO' ] 
+ 🤚  Motivations: The people , and the adventure to work endlessly for something we are passionate that will work.  
+ 🗝  Experience: Go - 1 year experience in backend
+AWS - 2 Year experience and certificates (devops professional)
+Docker - 1 year
+terraform - 1 year 
+ 💰  Compensation: 80k$ 
+ 📍  Where: anywhere 
+ 🏫  Which campus: Silicon-Valley
+
+ 
+ 
+ 🧑 Guillaume Fortel 
+ 👤  42 Login: Gufortel 
+ 💻  Technology: Javascript, Node.js, React, Next.js, MongoDB, AWS, Azure  
+ 📧  gufortel@student.42.fr 
+ 📞  0680968155 
+ 🔗  Online portfolio: https://www.malt.fr/profile/guillaumefortel 
+ 🔗  Linkedin https://www.linkedin.com/in/gufortel/ 
+ 🎓  42 level: 12.12 
+ 🖋  Contract: [ 'Freelance' ] 
+ 🤚  Motivations: Pouvoir conseiller et aider à monter des projets 
+ 🗝  Experience: Node.js 8 mois creation API
+React.js a partir du 03/10/20 a aujourd'hui pour la migration et l’amélioration d'une App front Ruby on Rails vers  Next.js - React.
+-Plusieurs projet perso en React / Node.js 
+ 💰  Compensation: 500TJM 
+ 📍  Where: France 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 ismahene larbi  
+ 👤  42 Login: ilarbi 
+ 💻  Technology: c, python, php and SQL 
+ 📧  meriemismahlarbi@gmail.com 
+ 📞  0769682102 
+ 🔗  Online portfolio: https://github.com/IsmaheneLarbi/ 
+ 🔗  Linkedin https://fr.linkedin.com/in/ismahenelarbi/ 
+ 🎓  42 level: 12 
+ 🖋  Contract: [ 'Part-time' ] 
+ 🤚  Motivations: What motivates me is to learn things in my areas of interest (Data engineering, security, algorithmics...), to be able to ask questions  and absorb as much information as possible from talented people and feel myself level up as well as to work autonomously and work on cool projects, especially if those make a significant positive change in the lives of  people. 
+
+I love trying to understand how things work and trying to come up with the best solution in the long run for real life problems.  
+ 🗝  Experience: *Php- 4 months developing features on a bot during my internship using the Chatfuel API and adding free coupons on Stripe and making sure no checkout is required
+*Vuejs 2 months adding features on the website during my internship
+*HTML/CSS/PHP/SQL creating a page that displays personalized content relevent to the user's profile
+*Python : developed projects such as computorv1 and expert-system and I'm currently working on a wellness app with python.  
+ 💰  Compensation: 7200 euros over 6 months 
+ 📍  Where: france, spain, netherlands 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Wei-Chen Lin  
+ 👤  42 Login: weilin 
+ 💻  Technology: AWS, SAP, Salesforce, C, PHP, Javascript, SQL 
+ 📧  dottww@gmail.com 
+ 📞  0617611515 
+ 🔗  Online portfolio: undefined 
+ 🔗  Linkedin https://www.linkedin.com/in/andresweichenlin/ 
+ 🎓  42 level: 7.15 
+ 🖋  Contract: [ 'CDD / CDI', 'Internship', 'Full-time' ] 
+ 🤚  Motivations: To work with skilled seniors 
+ 🗝  Experience: taking AWS online courses 
+ 💰  Compensation: undefined 
+ 📍  Where: France, Spain, or depends on the job 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Daniel Hadley 
+ 👤  42 Login: dhadley 
+ 💻  Technology: Android, iOS, Flutter, mobile, Go, Augmented Reality 
+ 📧  hadleydaniel@gmail.com 
+ 📞  0762665196 
+ 🔗  Online portfolio: https://github.com/hadleycode 
+ 🔗  Linkedin https://www.linkedin.com/in/hadleyd/ 
+ 🎓  42 level: 15 
+ 🖋  Contract: [ 'CDD / CDI', 'Part-time', 'Internship' ] 
+ 🤚  Motivations: To have responsibility and possibility to make a difference. 
+ 🗝  Experience: Android - Udacity Android Nanodegree
+iOS - 6 months building AR apps at IBM
+Flutter - live jukebox (not yet online) and https://www.allergypassapp.com/
+Go - Going to learn 
+ 💰  Compensation: 42 
+ 📍  Where: Anywhere 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Hugo Bock  
+ 👤  42 Login: hbock 
+ 💻  Technology: Flutter, Xamarin, React.js, unity, WPF, Go, C, C#, dart, javascript 
+ 📧  42hugobock@gmail.com 
+ 📞  0699768807 
+ 🔗  Online portfolio: https://github.com/hbock-42 
+ 🔗  Linkedin https://www.linkedin.com/in/hugo-bock/ 
+ 🎓  42 level: 10.70 
+ 🖋  Contract: [ 'Freelance', 'Part-time', 'CDD / CDI', 'Full-time' ] 
+ 🤚  Motivations: Working on new stuffs, I prefer the research part than the last mile. I love flutter and making beautiful interfaces with animations. I am interested in everything linked to fighting global warming 
+ 🗝  Experience: Flutter - 1 year building demo applications using camera / microphone / music player / video player / lots of animations
+Xamarin - 2 years professionaly, building live video application and maintaining 3 other applications
+React.js - 3 months learning and then building a dashboards with chart to help the web team at my work
+unity3D - 4 months building a game with a friend, 5 months building  a project for renault RS exhibited at the franckfurt motor show, 3 month building a futuristic car dashboard for forecia, 1 months working on a VR project for a client, 1 month working on a AR project for a client
+WPF - 4months working on a big software used to configure flight sensors
+Go - 1 weeks building a small api to learn the language 
+ 💰  Compensation: 50k brut - 500 / J 
+ 📍  Where: France, Argentine, Colombie 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Alexandre Martinod  
+ 👤  42 Login: amartino 
+ 💻  Technology: Rust, Go, C++, C
+
+Trying to learn as much as possible about: low-level stuff, blockchain (especially implementation), and performance optimization. 
+ 📧  kipit@42l.fr 
+ 📞  0675823121 
+ 🔗  Online portfolio: undefined 
+ 🔗  Linkedin https://www.linkedin.com/in/alexandre-martinod/ 
+ 🎓  42 level: 5.69 
+ 🖋  Contract: [ 'Internship' ] 
+ 🤚  Motivations: I know the startup world, I've tried to build one myself. I know what it takes to work in this world. 
+ 🗝  Experience: Honestly I'm not looking for an internship right now, so my github / linkdin are not up to date. I will be looking for an internship in couple of months.
+
+- Rust / Blockchain : mooc  https://syllabus-mooc.web3.foundation/index.pdf. Beaucoup de pratique sur substrate https://substrate.dev/, le tout en Rust.
+
+- Cryptography Implementation Library in C. https://github.com/Kipitup/crypto
+
+- React native: 4 month building a mobile app (par'idylle)
+
+- Algo branch at 42 (Push swap / Lemin / Corewar) 
+ 💰  Compensation: At least 1000€ / month would be great :) 
+ 📍  Where: France, Paris 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Argan BOSCH 
+ 👤  42 Login: abosch 
+ 💻  Technology: Java, C, C++, Pentest, Reverse Engineering 
+ 📧  argan.bosch@protonmail.com 
+ 📞  0699007104 
+ 🔗  Online portfolio: https://www.github.com/aboscho 
+ 🔗  Linkedin undefined 
+ 🎓  42 level: 5.16 
+ 🖋  Contract: [ 'Internship' ] 
+ 🤚  Motivations: I want to work with a small team so I can learn the most of my internship. 
+ 🗝  Experience: Java 1 an au lycée en Isn et un semestre de fac avec un jeu cross plateforme.
+C 2 semestre de fac et 1 an et demi à 42 branche algo.
+Pentest, reverse sur root-me, overthewire 
+ 💰  Compensation: undefined 
+ 📍  Where: France, Paris  
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Géro (Grégory) VIGNEY   
+ 👤  42 Login: gvigney 
+ 💻  Technology: Symfony, PHP, JS, Twig, Flutter   
+ 📧  gvigney42@gmail.com 
+ 📞  0659254280 
+ 🔗  Online portfolio: undefined 
+ 🔗  Linkedin undefined 
+ 🎓  42 level: 16 
+ 🖋  Contract: [ 'CDD / CDI' ] 
+ 🤚  Motivations: undefined 
+ 🗝  Experience: Symfony 12 mois  
+ 💰  Compensation: undefined 
+ 📍  Where: Remote 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Arthur GUERIN  
+ 👤  42 Login: arguerin 
+ 💻  Technology: Python, Swift, SwiftUI, ARKit, Robotics, ML, AWS, Automation, API 
+ 📧  a.guerin@me.com 
+ 📞  0630138848 
+ 🔗  Online portfolio: Github : https://github.com/Taikos
+Website : https://www.arthurguerin.com/
+3D projects : https://www.arthurguerin.com/3dprojects
+Philanthropic project : https://fondsbrichauxtardy.org
+Ignition Program : https://ignition-program.com/lab/bilan-competences?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJvYmplY3RfcGsiOjM1NDYxLCJzdGF0dXNfYWN0aW9uX3BrIjo5LCJleHAiOjE2NDM4MjQ4MzJ9.AydkAYZT3DCfs_U_Xcza1_uETvnmZ9SyzIPrPCiMdzg&pk=35461 
+ 🔗  Linkedin https://www.linkedin.com/in/guerinarthur/ 
+ 🎓  42 level: 10.94 
+ 🖋  Contract: [ 'CDD / CDI', 'Co-founder // CTO', 'Full-time' ] 
+ 🤚  Motivations: I worked for several companies:
+- From different size and business activities (a large media group - NRJ ; a start-up acquired by a multinational company - Withings acquired by Nokia ; a start-up which just has done its series A funding - Skello),
+- And in different areas of responsibility (Executive Manager, Project Manager, CRM Manager, Customer Success Manager,….).
+These experiences have strengthened my conviction that I love to work in startups where innovation and dream can come true. I enjoy the adaptability, and the challenges of startup environment. 
+ 🗝  Experience: - Python - 6 months developing a Sales Lead generation scraping module at Skello.
+- API architecture and maintenance - 1 year maintaining Skello API.
+- Html - 1.8 years designing and sending emails for Withings community worldwide.
+- C - 2 years studying C at 42.
+- Swift / SwiftUI / Arkit - 1 year developing apps as a hobby.
+- Hack the Box Beginner - 1 month pen testing projects as a hobby - https://www.hackthebox.eu.
+- Currently studying AWS Cloud Practitioner Certification.
+-  3D - 3 years designing and printing 3D files and projects - https://www.arthurguerin.com/3dprojects.
+- Zapier -  2 years managing project automation through Zapier. 
+ 💰  Compensation: 75k€ net 
+ 📍  Where: Anywhere 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Mathis Lacombe  
+ 👤  42 Login: mlacombe 
+ 💻  Technology: Electronics, C, C++ 
+ 📧  mathis.lacombe@gmail.com 
+ 📞  0649606771 
+ 🔗  Online portfolio: undefined 
+ 🔗  Linkedin https://www.linkedin.com/in/mathis-lacombe-a5103a140 
+ 🎓  42 level: 7.36 
+ 🖋  Contract: [ 'Internship' ] 
+ 🤚  Motivations: I am curious about the world of startups and I want to improve my team skills. I like creativity, skill building and versatility. 
+ 🗝  Experience: Electronics - 9 months building an electronic project at 42 (security system for bycicles)
+C - 1 year study at 42
+C++ - 2 months building basis with electronics project at 42 (security system for bycicles) 
+ 💰  Compensation: 12K€ net 
+ 📍  Where: France 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Ekaterina Suslova  
+ 👤  42 Login: esuslova 
+ 💻  Technology: Go, PHP, Python, Node.js 
+ 📧  eksuslova@gmail.com 
+ 📞  +33 7 68 99 69 60 
+ 🔗  Online portfolio: Github profile contains private repos for now. I am working on that. 
+ 🔗  Linkedin https://www.linkedin.com/in/ekaterina-suslova-5a9b554b/ 
+ 🎓  42 level: 6.24 
+ 🖋  Contract: [ 'Internship' ] 
+ 🤚  Motivations: Startups have a very dynamic and challenging environment and awesome teams. Also, personal input is valued much higher. 
+ 🗝  Experience: Development experience only in school projects:
+Go - Matcha
+Node.js - Hypertube
+PHP - Camagru
+Python - 42AI bootcamp 
+ 💰  Compensation: 1k€/month 
+ 📍  Where: France 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Christopher Belan 
+ 👤  42 Login: chbelan 
+ 💻  Technology: C , Python, SQL , Hadoop, Apache spark , Ruby on rails 
+ 📧  teichris@outlook.fr 
+ 📞  0629326747 
+ 🔗  Online portfolio: undefined 
+ 🔗  Linkedin https://www.linkedin.com/in/christopher-belan-teko-a88a54139 
+ 🎓  42 level: 5.72 
+ 🖋  Contract: [ 'Freelance', 'Full-time', 'Internship' ] 
+ 🤚  Motivations: I just want work It doesn't matter firm startup 
+ 🗝  Experience: C - 15 months at 42
+Python - 3 months openclaroom and Udemy Certificate
+Ruby on rails - 2 years freelance development
+SQL & big data tools - 1 month Udemy Certificate 
+ 💰  Compensation: I have no idea 
+ 📍  Where: Anywhere 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Mehdi Benjelloun  
+ 👤  42 Login: mbenjell 
+ 💻  Technology: C, C++, Python, Java, Javascript, OCaml 
+ 📧  mbenjell@protonmail.ch 
+ 📞  0769144263 
+ 🔗  Online portfolio: https://github.com/MehdiBenjelloun 
+ 🔗  Linkedin https://www.linkedin.com/in/MehdiBenjelloun 
+ 🎓  42 level: 14.85 
+ 🖋  Contract: [ 'CDD / CDI', 'Full-time' ] 
+ 🤚  Motivations: I want to work with the 42's spirit or at least something close 
+ 🗝  Experience: C - 4 years coding school's project
+C++ - I learn concept about C++ at 42
+Java - I used this langage at University
+OCaml - At university
+Javascript - 4 months of internship at DXC Technology Maroc (I used Laravel PHP for backend) 
+ 💰  Compensation: 36k€ net 
+ 📍  Where: France 
+ 🏫  Which campus: Paris
+
+ 
+ 
+ 🧑 Florent Bartoli 
+ 👤  42 Login: flbartol 
+ 💻  Technology: Javascript
+Node.js
+Vue.Js
+Rust
+SQL
+NoSQL 
+ 📧  fbartoli@monaco.edu 
+ 📞  0674871179 
+ 🔗  Online portfolio: https://github.com/Fbartoli 
+ 🔗  Linkedin https://www.linkedin.com/in/bartoliflorent/ 
+ 🎓  42 level: 8.11 
+ 🖋  Contract: [ 'CDD / CDI', 'Freelance', 'Full-time', 'Internship' ] 
+ 🤚  Motivations: I would like to be part of a project rather than being an employee. I am looking to invest myself and to fully enjoy an entrepreneur experience 
+ 🗝  Experience: Javascript - 4 months branche web 42
+Node.js - 4 months Matcha - hypertube
+Vue.js - 1 month Hypertube
+Rust - 1 month Rust cookbook
+SQL - 4 months branche web 42 
+ 💰  Compensation: 30k euros net Negociable if shares in the company are offered / benefits 
+ 📍  Where: France, Switzerland, Monaco 
+ 🏫  Which campus: Paris
